@@ -1,0 +1,96 @@
+body{
+    background-color: #3B5998;
+}
+
+h1{
+    text-align: center;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    color: #ffffff;
+}
+.image{
+ text-align: center; 
+}
+input{
+    width: 400px;
+    height: 30px;
+    padding: 12px;
+    font-size: 20px;
+}
+.textBox{
+    text-align: center;
+}
+#addBtn{
+    padding: 21px 25px;
+    background-color: #4CAF50;
+    color: #ffffff;
+    text-align: center;
+    font-size: 14px;
+    margin: 4px;
+    border: none;
+    border-radius: 10px;
+}
+#addBtn:hover{
+    transition-delay: 0.2s;
+    -webkit-transition-delay: 0.2s;
+    -webkit-transition-duration: 0.2s;
+    transition-duration: 0.2s;
+    background-color: #31e038;
+    padding: 24px 29px;
+}
+#delAllBtn{
+    padding: 21px 25px;
+    border: none;
+    background-color: #A02C2C;
+    color: #ffffff;
+    text-align: center;
+    font-size: 14px;
+    margin: 8px;
+    border-radius: 10px;
+}
+#delAllBtn:hover{
+    transition-delay: 0.2s;
+    -webkit-transition-delay: 0.2s;
+    -webkit-transition-duration: 0.2s;
+    transition-duration: 0.2s;
+    background-color: #db2206;
+    padding: 24px 29px;
+}
+#delLastOneBtn{
+    padding: 21px 25px;
+    border: none;
+    background-color: #A02C2C;
+    color: #ffffff;
+    text-align: center;
+    font-size: 14px;
+    margin: 8px;
+    border-radius: 10px;
+}
+#delLastOneBtn:hover{
+    transition-delay: 0.2s;
+    -webkit-transition-delay: 0.2s;
+    -webkit-transition-duration: 0.2s;
+    transition-duration: 0.2s;
+    background-color: #db2206;
+    padding: 24px 29px;
+}
+#list{
+      width: 300px;
+      text-align: center;
+      margin: auto;
+}
+li{
+    font-size: 18px;
+    color: #ffffff;
+    background-color:#5780d6;
+    margin: 5px 0 ;
+    
+}
+
+
+
+
+.cross {
+    float: right;
+    height: 20px;
+    width: 20px;
+  }
